@@ -211,7 +211,7 @@ Persona asociada a una cuenta.
 - Account Id
 - Title
 
-#####Relación: Pertenece a una Account
+##### Relación: Pertenece a una Account
 
 **4. Oppotunity**
 Representa una venta en curso.
@@ -222,7 +222,7 @@ Representa una venta en curso.
 - Stage
 - Account Id
 
-#####Relación: Pertenece a una Account y puede tener Products y Quotes.
+##### Relación: Pertenece a una Account y puede tener Products y Quotes.
 
 **5. Product**
 Producto o servicio que la empresa ofrece.
@@ -232,7 +232,7 @@ Producto o servicio que la empresa ofrece.
 - Description
 - Active
 
-#####Relación: Se asocia a Opportunities mediante PriceBooks.
+##### Relación: Se asocia a Opportunities mediante PriceBooks.
 
 **6.  PriceBook**
 Lista de precios que define cuánto cuesta cada producto.
@@ -241,7 +241,7 @@ Lista de precios que define cuánto cuesta cada producto.
 - Description
 - Active
 
-#####Relación: Relaciona Products con Opportunities.
+##### Relación: Relaciona Products con Opportunities.
 
 **7. Quotes**
 Cotización generada a partir de una Opportunity.
@@ -251,7 +251,7 @@ Cotización generada a partir de una Opportunity.
 - Expiration Date
 - Opportunity Id
 
-#####Relación: Pertenece a una Opportunity.
+##### Relación: Pertenece a una Opportunity.
 
 **8. Asset**
 Producto adquirido por un cliente.
@@ -261,7 +261,7 @@ Producto adquirido por un cliente.
 - Install Date
 - Account Id
 
-#####Relación: Pertenece a una Account.
+##### Relación: Pertenece a una Account.
 
 **9. Case**
 Solicitud de soporte o reclamo de un cliente.
@@ -272,7 +272,7 @@ Solicitud de soporte o reclamo de un cliente.
 - Priority
 - Account Id
 
-#####Relación: Pertenece a una Account
+##### Relación: Pertenece a una Account
 
 **10. Article**
 Artículo de conocimiento para soporte.
@@ -282,7 +282,7 @@ Artículo de conocimiento para soporte.
 - Content
 - Status
 
-#####Relación: No tiene relacion directa obligatoria con otros objetos.
+##### Relación: No tiene relacion directa obligatoria con otros objetos.
 
 ## Diagrama de Relaciones:
 ![](https://raw.githubusercontent.com/RocioAranibar/evaluacion-practica/refs/heads/RocioAranibar-patch-2/Captura10.JPG)
