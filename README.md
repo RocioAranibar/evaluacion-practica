@@ -34,7 +34,7 @@ Adicionalmente, se instaló Git Bash, una interfaz de línea de comandos que fac
 
 ------------
 
-##Ejercicio 2 - Protocolo HTTP
+## Ejercicio 2 - Protocolo HTTP
 
 ------------
 
