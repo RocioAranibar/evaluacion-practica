@@ -49,7 +49,7 @@ Los más utilizados son:
 - **POST:** Enviar información.
 - **PUT:** Actualizar un recurso existente.
 - **DELETE:** Eliminar un recurso.
-- **PATCH: **Actualizar parcialmente un recurso.
+- **PATCH:** Actualizar parcialmente un recurso.
 
 **3. ¿Qué es un reques y un response? ¿Qué son los headers?**
 
@@ -67,9 +67,9 @@ Un queryString es un conjunto de parámetros que se envían en una URL para tran
 El responseCode (codigo de estado HTTP) indica el resultado de una solicitud realizada a servidor.
 Agrupados en categorías como:
 - **2xx:** Éxito (ej. 200 OK)
-- **3xx: **Redirección
--** 4xx: **Error del cliente (ej. 404 Not Found)
-- **5xx: **Error del servidor (ej. 500 Internal Server Error)
+- **3xx:** Redirección
+- **4xx:** Error del cliente (ej. 404 Not Found)
+- **5xx:** Error del servidor (ej. 500 Internal Server Error)
 
 **6. ¿Cómo se envia la data en un GET y en un POST?**
 
