@@ -119,7 +119,7 @@ El header Content-Type indica el formato de los datos que se estan enviando al s
 - `application/xml`
 - `text/html`
 
-##Ejercicio 3 - Request con Postman y JSON
+## Ejercicio 3 - Request con Postman y JSON
 ##### Enunciado: Realizar request HTTP utilizando Postman para interactuar con un endpoint, la cual permite realizar solicitudes HTTP simulando el comportamiento de un cliente.
 ###### Resolución:
 1. Request GET - Obtención de contactos
@@ -160,7 +160,7 @@ La principal diferencia entre ambas llamadas es que:
 
 Esto demuestra como un request POST modifica el estado del recurso en el servidor y como un GET refleja los cambios.
 
-##Ejercicio 4 - Trailhead
+## Ejercicio 4 - Trailhead
 ##### Enunciado: Completar los módulos de Trailhead en ingles y compartir el perfil público
 ###### Resolución:
 Se realizó el cambio de idioma de Trailhead a inglés y se completaron los siguientes módulos utilizando el mismo Playground:
@@ -176,7 +176,7 @@ Para evidenciar la finalización de los módulos, se comparte el perfil público
 
 ------------
 
-##Ejercicio 5 - Objetos estandar de Salesforce
+## Ejercicio 5 - Objetos estandar de Salesforce
 
 **1. Lead**
 Un lead representa un posible cliente que aún no fue calificado.
@@ -290,7 +290,7 @@ Artículo de conocimiento para soporte.
 
 ------------
 
-##Ejercicio 6 - Conceptos de Salesforce
+## Ejercicio 6 - Conceptos de Salesforce
 
 ### Soluciones de Salesforce
 
@@ -438,7 +438,7 @@ Plataforma especializada para el sector salud, que centraliza datos clinicos y d
  
  No. Salesforce es un CRM, aunque puede integrarse con ERPs.
 
-##Ejercicio 7 - Trigger y Callout REST
+## Ejercicio 7 - Trigger y Callout REST
 
 Se desarrolló un trigger sobre Contact que invoca un servicio REST externo para actualizar el correo electrónico utilizando un identificador externo.
 
