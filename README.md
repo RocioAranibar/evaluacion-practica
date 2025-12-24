@@ -293,29 +293,29 @@ Artículo de conocimiento para soporte.
 
 ### Soluciones de Salesforce
 
-A . ¿Qué es Salesforce?
+**A . ¿Qué es Salesforce?**
 
 Es una platafrma CRM en la nube que permite gestionar ventas, servicio, marketing y relaciones con clientes.
 
-B. ¿Qué es Sales Cloud?
+**B. ¿Qué es Sales Cloud?**
 
 Solución enfocada en la gestión de ventas, oportunidades, leads y pipeline comercial.
 
-C. ¿Qué es Service Cloud?
+**C. ¿Qué es Service Cloud?**
 
 Solución enfocada a la atención al cliente y soporte mediante casos, canales digitales y automatizaciones.
 
-D. ¿Qué es Health Cloud?
+**D. ¿Qué es Health Cloud?**
 
 Plataforma especializada para el sector salud, que centraliza datos clinicos y de pacientes.
 
- E. ¿Qué es Marketing CLoud?
+**E. ¿Qué es Marketing CLoud?**
  
  Herramienta para gestionar campañas de marketing digital, automatización y comunicaciones personalizadas.
  
 ###  Funcionalidades de Salesforce
  
-** A. ¿Qué es un RecordType?**
+**A. ¿Qué es un RecordType?**
  
  Permite definir distintos procesos, layouts y picklists para un mismo objeto.
  
@@ -323,90 +323,90 @@ Plataforma especializada para el sector salud, que centraliza datos clinicos y d
  
  Define que objetos y relaciones pueden utilizarse en un reporte.
  
-** C. ¿Qué es un Page Layout?**
+**C. ¿Qué es un Page Layout?**
  
  Controla la disposición de campos, botones y secciones en un registro.
  
-** D. ¿Qué es un Compact Layout?**
+**D. ¿Qué es un Compact Layout?**
  
  Define los campos que se muestran en vistas compactas, especialmente en móbile.
  
-** E. ¿Qué es un Perfil?**
+**E. ¿Qué es un Perfil?**
  
  Define permisos de acceso a objetos, campos y funcionalidades.
  
-** F. ¿Qué es un Rol?**
+**F. ¿Qué es un Rol?**
  
  Define la jerarquía de usuarios y el acceso a registros.
  
-** G. ¿Qué es un Validation Rule?**
+**G. ¿Qué es un Validation Rule?**
  
  Regla que valida datos antes de guardar un registro.
  
-** H. ¿Diferencia entre Master Detail y Lookup?**
+**H. ¿Diferencia entre Master Detail y Lookup?**
  - Master Detail: relación dependiente, con herencia de permisos.
  - Lookup: relación flexible e independiente.
  
  
-** I. ¿Qué es un Sandbok?**
+**I. ¿Qué es un Sandbok?**
  
  Entorno de pruebas aislado del entorno productivo.
  
-** J. ¿Qué es un ChangeSet?**
+**J. ¿Qué es un ChangeSet?**
  
  Herramienta para mover configuraciones entre entornos Salesforce.
  
-** K. ¿Para qué sirve el Import Wizard?**
+**K. ¿Para qué sirve el Import Wizard?**
  
  Permite importar datos de forma guiada desde archivos.
  
-** L. ¿Para qué sirve Web to Lead?**
+**L. ¿Para qué sirve Web to Lead?**
  
  Crea Leads automáticamente desde formularios web.
  
-** M. ¿Para qué srive Web to Case?**
+**M. ¿Para qué srive Web to Case?**
  
  Crea Cases automáticamente desde formularos web.
  
-** N. ¿Para qué sirve Omnichannel?**
+**N. ¿Para qué sirve Omnichannel?**
  
  Distribuye casos y tareas entre agentes de forma inteligente.
  
-** O. ¿Para qué sirve Chatter?**
+**O. ¿Para qué sirve Chatter?**
  
  Facilita la colaboración interna entre usuarios.
  
 ###  Conceptos Generales
  
-** A. ¿Qué significa SaaS?**
+**A. ¿Qué significa SaaS?**
  
  Sotfware como servicio accesible vía internet.
  
-** B. ¿Salesforce es SaaS?**
+**B. ¿Salesforce es SaaS?**
  
  Sí, es una plataforma SaaS.
  
-** C. ¿Qué significa Cloud?**
+**C. ¿Qué significa Cloud?**
  
  Que la solución se aloja y ejecuta en la nube.
  
-** D. ¿Qué significa On-Premise?**
+**D. ¿Qué significa On-Premise?**
  
  Que el software se instala en servidores propios.
  
-** E. ¿Qué es un pipeline de ventas?**
+**E. ¿Qué es un pipeline de ventas?**
  
  Visualización de oportunidades en distintas etapas.
  
-** F. ¿Qué es un funnel de ventas?**
+**F. ¿Qué es un funnel de ventas?**
  
  Representación del proceso de conversión de clientes.
  
-** G. ¿Qué es un Customer Experience?**
+**G. ¿Qué es un Customer Experience?**
  
  Experiencia total del cliente con la marca.
  
-** H. ¿Qué es omnicanalidad?**
+**H. ¿Qué es omnicanalidad?**
  
  Integración de múltiples canales de atención.
  
@@ -416,24 +416,24 @@ Plataforma especializada para el sector salud, que centraliza datos clinicos y d
  - KPI: indicador clave de desempeño.
  
  
-** J. ¿Qué es una API y una Rest API?**
+**J. ¿Qué es una API y una Rest API?**
  
  Una API permite comunicación entre sistemas.
  Rest API usa HTTP y estándares de REST.
  
-** K. ¿Qué es un Proceso Batch?**
+**K. ¿Qué es un Proceso Batch?**
  
  Proceso que ejecuta grandes volúmenes de datos en segundo plano.
  
-** L. ¿Qué es Kanban?**
+**L. ¿Qué es Kanban?**
  
  Método visual para gestionar tareas y flujos de trabajo.
  
-** M. ¿Qué es un ERP?**
+**M. ¿Qué es un ERP?**
  
  Sistema para gestionar procesos internos de una empresa.
  
-** N. ¿Salesforce es un ERP?**
+**N. ¿Salesforce es un ERP?**
  
  No. Salesforce es un CRM, aunque puede integrarse con ERPs.
 
