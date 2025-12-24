@@ -32,7 +32,6 @@ Con Git es posible:
 
 Adicionalmente, se instaló Git Bash, una interfaz de línea de comandos que facilita la ejecución de comando Git y la interacción con repositorios desde un entorno de consola.
 
-------------
 
 ## Ejercicio 2 - Protocolo HTTP
 
