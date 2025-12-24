@@ -47,8 +47,8 @@ Los verbos HTTP indican la acción que el cliente desea realizar sobre un recurs
 Los más utilizados son:
 - **GET:** Obtener información.
 - **POST:** Enviar información.
-- **PUT: **Actualizar un recurso existente.
-- **DELETE: **Eliminar un recurso.
+- **PUT:** Actualizar un recurso existente.
+- **DELETE:** Eliminar un recurso.
 - **PATCH: **Actualizar parcialmente un recurso.
 
 **3. ¿Qué es un reques y un response? ¿Qué son los headers?**
